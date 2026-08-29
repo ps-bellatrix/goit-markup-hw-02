@@ -19,6 +19,8 @@ a {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .logo-accent {
@@ -29,6 +31,12 @@ a {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  color: #2e2f42;
+  letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+address {
+  font-style: normal;
 }
