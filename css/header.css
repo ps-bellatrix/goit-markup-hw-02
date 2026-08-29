@@ -1,0 +1,23 @@
+.page-header {
+  background-color: #2e2f42;
+}
+
+navigation-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.navigation-link:hover,
+.navigation-link:focus,
+.navigation-link.active {
+  color: #404bbf;
+}
+
+.contacts-link {
+  color: #434455;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
