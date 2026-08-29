@@ -2,6 +2,10 @@
   background-color: #ffffff;
 }
 
+.header-logo {
+  color: #2e2f42;
+}
+
 .navigation-link {
   font-weight: 500;
   color: #2e2f42;
